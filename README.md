@@ -1,4 +1,4 @@
-# repos_dantotsu
+# repos_Aniyomi
 
 # Anime
 
